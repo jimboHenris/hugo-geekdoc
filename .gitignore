@@ -1,6 +1,7 @@
 # local environments
 .swp
 .env*
+.idea/
 dist/
 build/
 node_modules/
